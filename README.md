@@ -17,7 +17,7 @@ Os métodos usados ​​na sessão Objeto implícito são os seguintes:
 
 **Método 5:** getAttribute (String name): Usando o método getAttribute , o objeto que é armazenado pelo método setAttribute() é recuperado da sessão. Por exemplo, precisamos armazenar o “userid” na sessão usando o método setAttribute() se houver a necessidade de acessar o userid em cada página jsp até que a sessão esteja ativa e quando necessário, ela pode ser acessada usando o método getAttribute().
 
-**Método 6: **setAttribute (String, object): O método setAttribute é usado para armazenar um objeto na sessão atribuindo uma string única ao objeto. Posteriormente, usando a mesma string, este objeto pode ser acessado da sessão até que ela esteja ativa. No JSP, ao lidar com a sessão, setAttribute() e getAttribute() são os dois métodos mais usados ​​regularmente.
+**Método 6:** setAttribute (String, object): O método setAttribute é usado para armazenar um objeto na sessão atribuindo uma string única ao objeto. Posteriormente, usando a mesma string, este objeto pode ser acessado da sessão até que ela esteja ativa. No JSP, ao lidar com a sessão, setAttribute() e getAttribute() são os dois métodos mais usados ​​regularmente.
 
 **Método 7:** getMaxInactiveInterval(): o intervalo de tempo máximo de inatividade da sessão de retorno getMaxInactiveInterval em segundos.
 
