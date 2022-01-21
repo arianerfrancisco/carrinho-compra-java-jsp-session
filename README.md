@@ -11,7 +11,7 @@ Os métodos usados ​​na sessão Objeto implícito são os seguintes:
 
 **Método 2:** getId(): ao criar uma sessão, o contêiner de servlet atribui um identificador de string distinto à sessão. Este identificador de string distinto é retornado pelo método getId .
 
-**Método 3: ** getAttributeNames(): Todos os objetos armazenados na sessão são retornados pelo método getAttributeNames . Fundamentalmente, esse método resulta em uma enumeração de objetos.
+**Método 3:** getAttributeNames(): Todos os objetos armazenados na sessão são retornados pelo método getAttributeNames . Fundamentalmente, esse método resulta em uma enumeração de objetos.
 
 **Método 4:** getCreationTime(): A hora de criação da sessão (a hora em que a sessão se tornou ativa ou a sessão começou) é retornada pelo método getCreationTime .
 
