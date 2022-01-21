@@ -25,8 +25,11 @@ Os métodos usados ​​na sessão Objeto implícito são os seguintes:
 
 **Método 9:** removeAttribute (String name): Usando o método removeAttribute (String name) , os objetos que estão armazenados na sessão podem ser removidos da sessão.
 
+**Método 10** : invalidate(): O método invalidate() termina uma sessão e interrompe a conexão da sessão com todos os objetos armazenados.
+
 ### Referências Estudos
+
 - https://acervolima.com/sessao-jsp-objeto-implicito/
 - https://www.softblue.com.br/course/home/id/4
 
-**Método 10** : invalidate(): O método invalidate() termina uma sessão e interrompe a conexão da sessão com todos os objetos armazenados.
+
