@@ -7,6 +7,7 @@ import java.util.Map;
 public class Produto {
 	
 	private static Map<Integer, Produto> produtos;
+	// obtem atraves da consulta do bd
 	
 	static {
 		produtos = new LinkedHashMap<Integer, Produto>();
