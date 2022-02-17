@@ -30,6 +30,9 @@ Os métodos usados ​​na sessão Objeto implícito são os seguintes:
 ### Referências Estudos
 
 - https://acervolima.com/sessao-jsp-objeto-implicito/
-- https://www.softblue.com.br/course/home/id/4
 
+
+Curso Softblue - Curso Java Web com Servlets e JSPs (JV-04)- Módulo 06 -  Integrando Servlets e JSPs
+
+- https://www.softblue.com.br/course/home/id/4
 
